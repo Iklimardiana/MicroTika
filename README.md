@@ -2,9 +2,9 @@
 
 ## Demo Sistem
 
-Video demo gabungan seluruh peran (Admin/Operator, Guru, dan Siswa) dapat ditonton melalui link berikut:
+Video demo dapat ditonton melalui link berikut:
 
-* [Tonton Video Demo Semua Role](https://www.youtube.com/watch?v=5r9GiqATm7M)
+* [Tonton Video Demo](https://www.youtube.com/watch?v=5r9GiqATm7M)
 
 ---
 
