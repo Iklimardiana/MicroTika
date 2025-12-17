@@ -1,5 +1,13 @@
 # Learning Management System (LMS) MicroTika
 
+## Demo Sistem
+
+Video demo gabungan seluruh peran (Admin/Operator, Guru, dan Siswa) dapat ditonton melalui link berikut:
+
+* [Tonton Video Demo Semua Role](https://www.youtube.com/watch?v=5r9GiqATm7M)
+
+---
+
 ## Deskripsi
 
 Learning Management System (LMS) ini merupakan aplikasi berbasis web yang dikembangkan sebagai bagian dari tugas akhir (skripsi). Sistem ini dirancang untuk mendukung proses pembelajaran daring dengan menyediakan fitur manajemen pengguna, materi pembelajaran, tugas, penilaian, forum diskusi, serta ujian berbasis komputer (CBT).
@@ -79,14 +87,6 @@ Sistem memiliki tiga peran pengguna utama, yaitu **Admin/Operator**, **Guru**, d
 * Penyimpanan password dalam bentuk terenkripsi
 * Validasi input untuk mencegah kesalahan data
 * Pembatasan akses halaman berdasarkan peran pengguna
-
----
-
-## Demo Sistem
-
-Video demo gabungan seluruh peran (Admin/Operator, Guru, dan Siswa) dapat ditonton melalui link berikut:
-
-* [Tonton Video Demo Semua Role](https://www.youtube.com/watch?v=5r9GiqATm7M)
 
 ---
 
